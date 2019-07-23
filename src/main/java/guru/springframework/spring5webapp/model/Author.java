@@ -8,6 +8,7 @@ import java.util.Set;
  * Created by Daniel Šulik on 23-Jul-19
  * <p>
  * Class Author is used for .....
+ * POJO Author
  */
 @Entity
 public class Author {

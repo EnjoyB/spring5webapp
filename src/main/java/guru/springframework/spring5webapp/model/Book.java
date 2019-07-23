@@ -8,6 +8,7 @@ import java.util.Set;
  * Created by Daniel Šulik on 23-Jul-19
  * <p>
  * Class Book is used for .....
+ * POJO book
  */
 @Entity
 public class Book {
